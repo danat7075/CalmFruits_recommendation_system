@@ -1,0 +1,7 @@
+# В папке проекта отслеживаем только комплект для сдачи.
+/*
+!/.gitignore
+!/semantic_search_project.ipynb
+!/semantic_search_project_workbook.md
+!/requirements.txt
+!/.env.example
