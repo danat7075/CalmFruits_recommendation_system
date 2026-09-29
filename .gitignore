@@ -5,3 +5,4 @@
 !/semantic_search_project_workbook.md
 !/requirements.txt
 !/.env.example
+!/baseline_metrics.csv
