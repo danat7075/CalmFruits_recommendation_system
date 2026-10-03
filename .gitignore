@@ -1,8 +1,12 @@
-# В папке проекта отслеживаем только комплект для сдачи.
+# Файлы для сдачи. Данные, секреты и локальные результаты игнорируются.
 /*
 !/.gitignore
 !/semantic_search_project.ipynb
 !/semantic_search_project_workbook.md
 !/requirements.txt
 !/.env.example
+!/README.md
+!/check_mlflow.py
 !/baseline_metrics.csv
+!/validation_metrics.csv
+!/final_test_metrics.csv
