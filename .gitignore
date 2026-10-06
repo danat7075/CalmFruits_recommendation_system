@@ -1,6 +1,7 @@
 # Файлы для сдачи. Данные, секреты и локальные результаты игнорируются.
 /*
 !/.gitignore
+# Для сдачи используем основную тетрадь; review и архивные тетради игнорируются.
 !/semantic_search_project.ipynb
 !/semantic_search_project_workbook.md
 !/requirements.txt
@@ -10,3 +11,4 @@
 !/baseline_metrics.csv
 !/validation_metrics.csv
 !/final_test_metrics.csv
+!/error_analysis.csv
